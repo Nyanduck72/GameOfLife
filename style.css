@@ -20,8 +20,8 @@ body {
 }
 
 .cell {
-    width: 35px; /*35 * 30 = 1050px*/
-    height: 35px; /*35 * 15 = 525px*/
+    width: 20px; /*35 * 60 = 1050px*/
+    height: 20px; /*35 * 30 = 525px*/
 }
 
 .dead {
