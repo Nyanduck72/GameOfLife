@@ -24,7 +24,7 @@ function Init() { // Creates the initial grid for the game
     }
 }
 
-setInterval(refreshGrid(), 500)
+setInterval(refreshGrid(), 500) 
 
 function refreshGrid() {
     area.innerHTML = ''
